@@ -57,7 +57,7 @@ All charts support:
 
 ## Navigation Instructions
 
-- **`report.pdf`** – Full written explanation of critique, theory, redesign and research  
+- **`InfoVis Redesign.pdf`** – Full written explanation of critique, theory, redesign and research  
 - **`Infovis redesign.ipynb`** – Open in Jupyter or Colab to view/edit the Python visualizations  
 - **`cooling_degree_days_2014_2024.xlsx`** – Data file used in the redesign  
 - **`infovis redesign poster.pdf`** – Summary poster suitable for presentation with all visualizations included  
@@ -70,7 +70,6 @@ All charts support:
 - **Instructor**: Professor Luyao Zhang 
 - **Course**: INFOSCI 301- Data visualization and Asethetics 
 - **Institution**: Duke Kunshan University
-- **Link to Paper**: Available in this repository as `report.pdf` 
 - **Acknowledgement**: Thanks to the instructors and peers who provided feedback throughout the project.
 
 **Disclaimer**: This project was created for academic purposes. The dataset used is simulated and does not represent actual climate data from AWS.
@@ -86,4 +85,6 @@ All charts support:
 - AWS (2024), Gartner (2024), Yurbi (2023), Transcenda (2022)
 
 ---
+## Project Poster
 
+![Project Poster](./InfoVis Redesign.pdf)
