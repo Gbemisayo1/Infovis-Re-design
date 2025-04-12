@@ -66,11 +66,11 @@ All charts support:
 
 ## Project Information
 
-- **Author**: [Gbemisayo Motunrayo Aderonke Adelaja]  
-- **Instructor**: [Professor Luyao Zhang]  
-- **Course**: [INFOSCI 301- Data visualization and Asethetics]  
-- **Institution**: [Duke Kunshan University]  
-- **Link to Paper**: [Available in this repository as `report.pdf`]  
+- **Author**: Gbemisayo Motunrayo Aderonke Adelaja 
+- **Instructor**: Professor Luyao Zhang 
+- **Course**: INFOSCI 301- Data visualization and Asethetics 
+- **Institution**: Duke Kunshan University
+- **Link to Paper**: Available in this repository as `report.pdf` 
 - **Acknowledgement**: Thanks to the instructors and peers who provided feedback throughout the project.
 
 **Disclaimer**: This project was created for academic purposes. The dataset used is simulated and does not represent actual climate data from AWS.
