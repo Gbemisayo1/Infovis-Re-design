@@ -57,10 +57,10 @@ All charts support:
 
 ## Navigation Instructions
 
-- **`InfoVis Redesign.pdf`** – Full written explanation of critique, theory, redesign and research  
-- **`Infovis redesign.ipynb`** – Open in Jupyter or Colab to view/edit the Python visualizations  
+- **`InfoVis Redesign updated.pdf`** – Full written explanation of critique, theory, redesign and research  
+- **`Infovis redesign updated.ipynb`** – Open in Jupyter or Colab to view/edit the Python visualizations  
 - **`cooling_degree_days_2014_2024.xlsx`** – Data file used in the redesign  
-- **`infovis redesign poster.pdf`** – Summary poster suitable for presentation with all visualizations included  
+- **`infovis redesign poster updated.pdf`** – Summary poster suitable for presentation with all visualizations included  
 
 ---
 
